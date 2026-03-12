@@ -134,6 +134,7 @@ Jump directly to any section:
 | **Slack**                | Free upgrade for student teams for communication & collaboration              | https://education.github.com/pack |
 | **Trello**               | Free premium boards for workflow & project organization via GitHub Pack       | https://education.github.com/pack |
 | **Asana**                | Free trial for team productivity and project tracking                         | https://asana.com |
+| **CiteMe**               | Free academic citation generator — searches OpenAlex, CrossRef, PubMed & more, formats in APA, MLA, Chicago, Harvard, ABNT, Vancouver, IEEE, and 40+ styles. Free tier: 20 citations/month, 50 library items, BibTeX/RIS export. No sign-up required | https://citeme.app |
 
 
 <div align="left">
