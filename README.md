@@ -33,6 +33,7 @@ Jump directly to any section:
 - [🎨 Design Tools](#-design-tools)
 - [🎓 Courses & Certifications](#-courses--certifications)
 - [📚 Productivity Tools](#-productivity-tools)
+- [💼 Career & Job Search Resources](#-career--job-search-resources)
 - [🔐 Security Tools](#-security-tools)
 - [🤖 AI Tools](#-ai-tools)
 - [🌐 Misc Perks](#-misc-student-perks)
@@ -136,6 +137,20 @@ Jump directly to any section:
 | **Asana**                | Free trial for team productivity and project tracking                         | https://asana.com |
 | **CiteMe**               | Free academic citation generator — searches OpenAlex, CrossRef, PubMed & more, formats in APA, MLA, Chicago, Harvard, ABNT, Vancouver, IEEE, and 40+ styles. Free tier: 20 citations/month, 50 library items, BibTeX/RIS export. No sign-up required | https://citeme.app |
 
+
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
+---
+
+## 💼 Career & Job Search Resources
+
+| Tool | Benefits | Link |
+|------|----------|------|
+| **Hanzilla Jobs** | Free, daily-updated Canadian student and recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more. No login required. | https://jobs.hanzilla.co/internships/ |
 
 <div align="left">
   <a href="#-categories">
