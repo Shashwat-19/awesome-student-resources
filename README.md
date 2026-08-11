@@ -136,6 +136,7 @@ Jump directly to any section:
 | **Trello**               | Free premium boards for workflow & project organization via GitHub Pack       | https://education.github.com/pack |
 | **Asana**                | Free trial for team productivity and project tracking                         | https://asana.com |
 | **CiteMe**               | Free academic citation generator — searches OpenAlex, CrossRef, PubMed & more, formats in APA, MLA, Chicago, Harvard, ABNT, Vancouver, IEEE, and 40+ styles. Free tier: 20 citations/month, 50 library items, BibTeX/RIS export. No sign-up required | https://citeme.app |
+| **PickerSpin**           | Free spin-the-wheel and random name picker for classroom use — no signup, no ads. Provably fair (built on the browser's Web Crypto API, with a public page to verify the math) | https://pickerspin.co |
 
 
 <div align="left">
