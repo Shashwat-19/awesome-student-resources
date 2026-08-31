@@ -31,6 +31,7 @@ Jump directly to any section:
 - [☁️ Cloud Services](#️-cloud-services)
 - [🛠 Developer Tools](#-developer-tools)
 - [🎨 Design Tools](#-design-tools)
+- [🎨 Portfolio & Personal Websites](#-portfolio--personal-websites)
 - [🎓 Courses & Certifications](#-courses--certifications)
 - [📚 Productivity Tools](#-productivity-tools)
 - [💼 Career & Job Search Resources](#-career--job-search-resources)
@@ -95,6 +96,21 @@ Jump directly to any section:
 | **Figma Education Plan** | Unlimited files, editors, and teams for students | https://www.figma.com/education/ |
 | **Framer for Students** | Pro access for building websites, portfolios & prototypes | https://www.framer.com/education/ |
 | **Sketch for Education** | Full version for UI design with student verification | https://www.sketch.com/education/ |
+
+<div align="left">
+  <a href="#-categories">
+    <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</div>
+
+---
+
+## 🎨 Portfolio & Personal Websites
+
+| Tool | Benefits | Link |
+|------|----------|------|
+| **Academic Homepage Template** | Clean academic personal website template built with HTML, CSS, and JavaScript; no build step or framework required, making it easy to customize and deploy with GitHub Pages. | https://github.com/Arvid-pku/Academic-Homepage-Template |
+| **Academic Pages** | Ready-to-fork GitHub Pages template for academic personal websites, supporting publications, talks, teaching, projects, blog posts, and CV content. | https://github.com/academicpages/academicpages.github.io |
 
 <div align="left">
   <a href="#-categories">
