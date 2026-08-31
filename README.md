@@ -37,6 +37,7 @@ Jump directly to any section:
 - [🔐 Security Tools](#-security-tools)
 - [🤖 AI Tools](#-ai-tools)
 - [🌐 Misc Perks](#-misc-student-perks)
+- [🔗 Related Lists](#-related-lists)
 
 ---
 
@@ -217,6 +218,12 @@ Jump directly to any section:
     <img src="https://img.shields.io/badge/⬆-Back_to_Top-blue?style=for-the-badge" alt="Back to Top"/>
   </a>
 </div>
+
+---
+
+## 🔗 Related Lists
+
+- [Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme) - Curated directory of 176 study and learning tools by category and region.
 
 ---
 
