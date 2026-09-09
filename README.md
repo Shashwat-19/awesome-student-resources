@@ -169,6 +169,8 @@ Jump directly to any section:
 | Tool | Benefits | Link |
 |------|----------|------|
 | **Hanzilla Jobs** | Free, daily-updated Canadian student and recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more. No login required. | https://jobs.hanzilla.co/internships/ |
+| **SignResize** | Free, privacy-first tool to resize and crop photos & signatures strictly within exact file size (20KB–50KB) and dimensions for competitive exams and job application forms (zero server uploads). | https://signresize.in |
+
 
 <div align="left">
   <a href="#-categories">
