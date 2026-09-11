@@ -169,6 +169,7 @@ Jump directly to any section:
 | Tool | Benefits | Link |
 |------|----------|------|
 | **Hanzilla Jobs** | Free, daily-updated Canadian student and recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more. No login required. | https://jobs.hanzilla.co/internships/ |
+| **ResumeAI** | Free ATS checker (3/day no account, 10/day free account) + AI resume builder. Open State of ATS 2026 dataset (738 employers, Workday 37.9%). | https://withresumeai.com/ |
 
 <div align="left">
   <a href="#-categories">
