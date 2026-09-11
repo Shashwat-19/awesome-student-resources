@@ -240,6 +240,7 @@ Jump directly to any section:
 ## 🔗 Related Lists
 
 - [Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme) - Curated directory of 176 study and learning tools by category and region.
+- [AIGuideDZ](https://aiguidedz.com/ai-guide.html) - Free, student-friendly guides comparing ChatGPT, Claude, Gemini, and other AI tools.
 
 ---
 
