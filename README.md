@@ -168,6 +168,7 @@ Jump directly to any section:
 
 | Tool | Benefits | Link |
 |------|----------|------|
+| **Careerhelp** | Free, no login. Explains 847 US and Canadian careers one screen each: typical pay, training time and cost, job outlook, and what the work is like. Ranked lists (highest paying trades, careers in demand, careers that take two years or less). | https://career.help |
 | **Hanzilla Jobs** | Free, daily-updated Canadian student and recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more. No login required. | https://jobs.hanzilla.co/internships/ |
 | **ResumeAI** | Free ATS checker (3/day no account, 10/day free account) + AI resume builder. Open State of ATS 2026 dataset (738 employers, Workday 37.9%). | https://withresumeai.com/ |
 
