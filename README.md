@@ -245,6 +245,7 @@ Jump directly to any section:
 
 - [Awesome Study Tools](https://github.com/studyarena-com/awesome-study-tools#readme) - Curated directory of 176 study and learning tools by category and region.
 - [AIGuideDZ](https://aiguidedz.com/ai-guide.html) - Free, student-friendly guides comparing ChatGPT, Claude, Gemini, and other AI tools.
+- [ShipFree](https://shipfree.dev/) - Curated directory of 154 free credits and offers for student developers, verified weekly with expiry and change tracking.
 
 ---
 
