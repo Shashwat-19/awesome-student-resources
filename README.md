@@ -130,6 +130,7 @@ Jump directly to any section:
 | **Great Learning Academy** | Beginner courses with certificates across data science, cloud computing, and business analytics | https://www.greatlearning.in/academy |
 | **Microsoft Learn**     | Interactive learning paths, labs, and certification vouchers in Microsoft technologies such as Azure, Microsoft 365, Power Platform | https://learn.microsoft.com |
 | **OpenLearn**           | Courses from The Open University covering many domains with flexible start dates | https://www.open.edu/openlearn/free-courses |
+| **Scivra** | Interactive 3D science labs for high school physics, chemistry and biology that run in the browser; first labs free to try | https://www.scivra.com |
 | **Swayam**              | Indian government platform offering courses from top Indian universities with certification options | https://swayam.gov.in |
 | **Udacity** | Tech courses ranging from beginner to advanced levels with video lessons and exercises | https://www.udacity.com |
 | **Udemy Free Courses**  | Daily rotating selection of courses across tech, business, and creative topics | https://www.udemy.com/courses/free |
