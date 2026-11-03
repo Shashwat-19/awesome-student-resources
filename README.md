@@ -220,6 +220,7 @@ Jump directly to any section:
 </div>
 
 ---
+| **QuizQuip** | Free syllabus-aligned science revision for Singapore lower-secondary students: notes, quizzes, topical questions, practice papers and AI practice | https://quizquip.com |
 
 ## 🌐 Misc Student Perks: Streaming & Entertainment
 
