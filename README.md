@@ -211,7 +211,7 @@ Jump directly to any section:
 | **OpenAI Student Programs** | Free or discounted API credits (region-based) for GPT, DALL·E, Whisper, and more             | https://openai.com |
 | **Deepnote**                | Free team plan for students with unlimited projects and collaborative data science features  | https://deepnote.com |
 | **Camber**                  | AI-powered scientific computing with free CPU hours, storage, and LLM credits for students   | https://camber.cloud |
-
+| **UtilifyAI Quiz Generator** | Free, no-login AI PDF-to-Quiz generator and lossless PDF compressor for students. Upload any lecture PDF, DOCX, or textbook chapter to generate interactive multiple-choice practice exams with instant grading and answer explanations | https://utilifyai.com/tools/ai-quiz/ |
 
 <div align="left">
   <a href="#-categories">
