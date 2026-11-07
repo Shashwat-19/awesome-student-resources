@@ -73,6 +73,7 @@ Jump directly to any section:
 | **GitKraken**                 | Git client + issue board included in GitHub Student Pack                               | https://www.gitkraken.com/github-student-developer-pack |
 | **Heroku Credits**            | Platform credits for hosting & deploying apps through GitHub Student Pack             | https://www.heroku.com/github-students |
 | **JetBrains Student License** | Full access to all JetBrains IDEs (IntelliJ, PyCharm, WebStorm & more) during studies | https://www.jetbrains.com/community/education/#students |
+| **Kilobat Pro for Students** | Mac network diagnostics; 1 year free on two Macs, renewable while studying with school email | https://kilobat.app/students |
 | **Microsoft Azure for Students** | $100 credit + developer tools and access to Visual Studio, GitHub Codespaces         | https://azure.microsoft.com/en-in/free/students/ |
 | **MongoDB Atlas Credits**     | $50 in credits + free shared cluster tier for cloud databases                               | https://www.mongodb.com/students |
 | **Overleaf Premium**          | Premium LaTeX editor for research papers & collaborative documents                    | https://www.overleaf.com/edu/students |
