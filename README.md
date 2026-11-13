@@ -154,6 +154,7 @@ Jump directly to any section:
 | **Trello**               | Free premium boards for workflow & project organization via GitHub Pack       | https://education.github.com/pack |
 | **Asana**                | Free trial for team productivity and project tracking                         | https://asana.com |
 | **CiteMe**               | Free academic citation generator — searches OpenAlex, CrossRef, PubMed & more, formats in APA, MLA, Chicago, Harvard, ABNT, Vancouver, IEEE, and 40+ styles. Free tier: 20 citations/month, 50 library items, BibTeX/RIS export. No sign-up required | https://citeme.app |
+| **Glasp**                | Free plan for verified university students who sign in with their university email. Highlights web pages, PDFs and YouTube videos, shows YouTube transcripts with AI summaries, and exports highlights to Markdown, Notion, Obsidian and Roam | https://glasp.co/students |
 | **PickerSpin**           | Free spin-the-wheel and random name picker for classroom use — no signup, no ads. Provably fair (built on the browser's Web Crypto API, with a public page to verify the math) | https://pickerspin.co |
 | **Ripple**               | Free focus app for Android and iOS 16+ that blocks short videos and games during study hours. Rule changes need a 15-minute cooldown or a friend's unlock code, it can't be uninstalled on impulse, and it runs fully offline with no ads or account | https://ripplefocus.github.io/en/ |
 
