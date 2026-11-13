@@ -207,6 +207,7 @@ Jump directly to any section:
 
 | Tool                        | Benefits                                                                                      | Link |
 |-----------------------------|-----------------------------------------------------------------------------------------------|------|
+| **Escriba**                 | Free, open-source Chrome extension that records lectures or meetings and transcribes them with your own free Gemini key | https://alvarogarrido10.github.io/escriba/ |
 | **HuggingFace**             | Free GPU hours and access to advanced ML models for experimentation and research             | https://huggingface.co |
 | **OpenAI Student Programs** | Free or discounted API credits (region-based) for GPT, DALL·E, Whisper, and more             | https://openai.com |
 | **Deepnote**                | Free team plan for students with unlimited projects and collaborative data science features  | https://deepnote.com |
